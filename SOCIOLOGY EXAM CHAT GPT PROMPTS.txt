@@ -184,3 +184,31 @@ Feudalism relied on serfdom (The Editors of Encyclopaedia Britannica, 2023), whe
 labor exploitation, some of which hold true, it is not comparable to the Middle Ages. Today, labor relations include workers' contracts, unions, and changing employment practices. The existence of market forces and private ownership 
 is frequently used to describe the modern market. Although wealth and income inequalities are a persistent issue, the inflexible social and economic framework of the feudal system is not representative of the modern market.
 
+
+
+
+############################################################################################################################################################################################################################################
+
+>>> PROMPT
+
+Check Grammar Errors:
+
+There are several examples that demonstrate how tech companies collect and monetize user data for their own economic gains. For example, Google search engine advertising model relies on analysing user behaviour and preferences so that relevant advertisements can be displayed when the user is browsing the web. Furthermore, companies like Amazon and Facebook collects user data and they use the data to drive targeted advertising on the user. The ability to track and analyse the user interactions and behaviour help these platforms to maximize their advertising revenue. They are able to collect this data by use of cookies and user browser cache. However, it is worth noting that the users have controls that allow them to also manage their data and search histories. The problem is the general public is not tech enthusiasts and are not fully aware of such means
+
+>>> CHATGPT
+
+There are a few grammar errors in the text:
+
+"For example, Google search engine advertising model relies on analysing user behaviour and preferences so that relevant advertisements can be displayed when the user is browsing the web." - The word "advertising" should be singular to match the subject "model": "For example, Google's search engine advertising model relies on analyzing user behavior and preferences so that relevant advertisements can be displayed when the user is browsing the web."
+
+"Furthermore, companies like Amazon and Facebook collects user data and they use the data to drive targeted advertising on the user." - The subject "companies" should agree with the verb "collects": "Furthermore, companies like Amazon and Facebook collect user data and use the data to drive targeted advertising to the user."
+
+"The ability to track and analyse the user interactions and behaviour help these platforms to maximize their advertising revenue." - The word "help" should be plural to match the subject "ability": "The ability to track and analyze the user interactions and behavior helps these platforms to maximize their advertising revenue."
+
+"They are able to collect this data by use of cookies and user browser cache." - The phrase "by use of" can be simplified to "using": "They are able to collect this data using cookies and the user's browser cache."
+
+"However, it is worth noting that the users have controls that allow them to also manage their data and search histories." - The word "also" is not necessary in this context: "However, it is worth noting that users have controls that allow them to manage their data and search histories."
+
+Revised paragraph with corrections:
+
+There are several examples that demonstrate how tech companies collect and monetize user data for their own economic gains. For example, Google's search engine advertising model relies on analyzing user behavior and preferences so that relevant advertisements can be displayed when the user is browsing the web. Furthermore, companies like Amazon and Facebook collect user data and use the data to drive targeted advertising to the user. The ability to track and analyze user interactions and behavior helps these platforms maximize their advertising revenue. They are able to collect this data using cookies and the user's browser cache. However, it is worth noting that users have controls that allow them to manage their data and search histories. The problem is that the general public is not composed of tech enthusiasts and may not be fully aware of such means.
